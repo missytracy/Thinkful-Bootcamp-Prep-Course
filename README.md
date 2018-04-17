@@ -1,6 +1,6 @@
-## Thinkful Data Science Prep
+## Thinkful Data Science Bootcamp Prep
 
-Contains introductory material for Thinkful's Data Science Bootcamp.
+Contains introductory material on data science fundamentals.
 
 Topics include:
 * Python programming fundamentals
